@@ -557,6 +557,7 @@ section, .section {
 .thumb-4 { background: linear-gradient(135deg, #f4a261, #e76f51); }
 .thumb-5 { background: linear-gradient(135deg, #2b2d42, #149ddd); }
 .thumb-6 { background: linear-gradient(135deg, #d6336c, #6f42c1); }
+.thumb-7 { background: linear-gradient(135deg, #149ddd, #22c1a2); }
 .portfolio-body {
   flex: 1;
   display: flex;

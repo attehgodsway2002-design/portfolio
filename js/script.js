@@ -103,7 +103,16 @@ function initTypedText() {
     'Network & Systems Specialist',
     'Full-Stack Developer',
     'Linux & Windows Server Admin',
-    'Problem Solver'
+    'Problem Solver',
+    'Vibe Coder',
+    'Agentic Coder',
+    'Prompt Engineer',
+    'Networking & Switching Expert',
+    'Linux Server Administrator',
+    'Windows Server & Active Directory Admin',
+    'Git & Version Control User',
+    'Python & Django Developer',
+    'Database Administrator'
   ];
 
   const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
